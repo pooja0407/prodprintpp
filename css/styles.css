@@ -1,0 +1,60 @@
+body{
+    background-color: #a393eb;
+
+}
+.text{
+  position: relative;
+  left: 500px;
+  top: -200px;
+  display: inline-block;
+}
+.Contact{
+  font-size: 20px;
+  position: relative;
+  left: 1000px;
+  top:-350px;
+  display: inline-block;
+}
+.Query{
+  font-size: 32px;
+  position: relative;
+  left: 500px;
+  top:-350px;
+  display: inline-block;
+}
+p{
+  font-family: 'Comfortaa', cursive;
+  color: #393232;
+  font-size: 20px;
+}
+.top-container{
+  height: 500px;
+  width: 1000px;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  color: #0c056d;
+  margin-top: -350px;
+  font-size: 25px;
+}
+loginbutton{
+  width: 120px;
+  height: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.logo{
+  margin-top: -65px;
+  margin-left: 80px;
+  font-size: 70px;
+  font-family: 'Fira Sans', sans-serif;
+  color: #0c056d;
+}
+.subtitle{
+  margin-top: 20px;
+}
+.pp{
+  margin-left: 10px;
+  margin-top: 30px;
+}
